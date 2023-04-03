@@ -2,7 +2,9 @@
 const inquirer = require ('inquirer');
 //fs to write the file
 const fs = require('fs');
-inquirer.prompt ([
+
+//An array of questions to ask the user
+const questions = [
     {
     type: 'input',
     message: "Please enter the characters to build the text.",
@@ -27,12 +29,15 @@ inquirer.prompt ([
     name: 'shapecolor'
 }
 
-])
+]
 //after user has answered the question, the name property of data object is assigned to a variable
-.then((data)=>{
-//const filename = data.character
-//writing a file with two params i.e filename and content
-fs.writeFile('logo.svg', 'logo',(err)=>{
-err ? console.log(err) : console.log("Successfully generated SVG file")
-});
-});
+function init (){
+ inquirer.prompt(questions).then((data)=>{
+        //const filename = data.character
+        //writing a file with two params i.e filename and content
+        fs.writeFile('logo.svg', 'logo',(err)=>{
+        err ? console.log(err) : console.log("Successfully generated SVG file")
+        });
+        });
+}
+init();
