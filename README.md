@@ -9,7 +9,7 @@ This project easily generates a logo, depending upon the characters, colors and 
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [Questions](#questions)
-- [Videolink] (#Videolink)
+- [Videolink](#Videolink)
 
 ## Technology
 Javascript, Node.js, Object oriented Programming
