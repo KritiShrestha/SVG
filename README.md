@@ -28,5 +28,5 @@ You can find me on Github at [KritiShrestha](https://github.com/KritiShrestha)
 Feel free to reach me out at shrkriti07@gmail.com if you have any additional questions
 
 ## Videolink
-![Demo video to generate SVG](./assets/video/SVGfile.webm)
+![Videolink](./assets/video/SVGfile.webm)
 
