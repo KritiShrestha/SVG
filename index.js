@@ -9,7 +9,7 @@ const generateSVG = require('./lib/generateContent');
 const questions = [
     {
         type: 'input',
-        message: "Please enter the characters to build the text.",
+        message: "Please enter the characters to build the logo.",
         name: 'character'
     },
 
