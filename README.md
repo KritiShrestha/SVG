@@ -28,6 +28,6 @@ You can find me on Github at [KritiShrestha](https://github.com/KritiShrestha)
 Feel free to reach me out at shrkriti07@gmail.com if you have any additional questions
 
 ## Videolink
-Here is the walkthrough video - 
+Here is the link for walkthrough video - https://user-images.githubusercontent.com/119089669/230258829-4c6455ff-2576-4b99-b6c7-14dc273ef7cc.webm
 
 [svgdemo.webm](https://user-images.githubusercontent.com/119089669/230258829-4c6455ff-2576-4b99-b6c7-14dc273ef7cc.webm)
